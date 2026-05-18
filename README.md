@@ -1,5 +1,4 @@
-# Sales-Executive-performance-Analysis-Macros-Enabled
-
+# Sales-Executives-performance-Analysis-Macros-Enabled
 # 📊 Sales Executive Performance Dashboard (Excel + Macros)
 
 ## 🏷️ 1.Project Title
@@ -101,7 +100,7 @@ This dashboard solves these problems by providing **clear, visual, and actionabl
 
 ## 🖼️ Dashboard Screenshot
 
-![Sales Executive Dashboard](Dashboard image.png)
+![Sales Executive Dashboard](https://github.com/vikramanand27/Sales-executives-performance-excel-macros-/blob/main/)
 
 
 > **sales_executives_screenshot.png**

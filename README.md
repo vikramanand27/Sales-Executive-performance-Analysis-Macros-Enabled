@@ -100,7 +100,7 @@ This dashboard solves these problems by providing **clear, visual, and actionabl
 
 ## 🖼️ Dashboard Screenshot
 
-![Sales Executive Dashboard](https://github.com/vikramanand27/Sales-executives-performance-excel-macros-/blob/main/Dashboard image.png)
+![Sales Executive Dashboard](https://github.com/vikramanand27/Sales-Executive-performance-Analysis-Macros-Enabled/blob/main/Dashboard%20image.png)
 
 
 > **sales_executives_screenshot.png**
